@@ -1,4 +1,4 @@
-package gosqlite3_extension_functions
+package gosqlite3-extension-functions
 
 import (
 	"database/sql"
