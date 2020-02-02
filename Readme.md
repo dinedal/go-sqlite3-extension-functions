@@ -35,3 +35,7 @@ func Main() {
 ```
 
 Or use the code in [extension-functions.go](github.com/dinedal/go-sqlite3-extension-functions/go/blob/master/go/extension-functions.go) to create your own driver hook.
+
+## Full function list
+
+Math: acos, asin, atan, atn2, atan2, acosh, asinh, atanh, difference, degrees, radians, cos, sin, tan, cot, cosh, sinh, tanh, coth, exp, log, log10, power, sign, sqrt, square, ceil, floor, pi. String: replicate, charindex, leftstr, rightstr, ltrim, rtrim, trim, replace, reverse, proper, padl, padr, padc, strfilter. Aggregate: stdev, variance, mode, median, lower_quartile, upper_quartile
